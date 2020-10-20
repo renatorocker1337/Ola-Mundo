@@ -4,3 +4,5 @@
  Repositório criado durante uma aula ao vivo!
 
  Que esse seja meu primeiro registro de uma nova era.
+ 
+ Adicionando linha diretamente pelo site, testando a plataforma.
